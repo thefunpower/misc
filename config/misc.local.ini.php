@@ -56,8 +56,8 @@ hljs.highlightAll();
 </script>
 */
 $misc_config['hljs'] = [
-	'static/static/lib/hljs/highlight.min.css',
-	'static/static/lib/hljs/highlight.min.js',
+	'static/lib/hljs/highlight.min.css',
+	'static/lib/hljs/highlight.min.js',
 ];
 
 
@@ -71,7 +71,7 @@ $misc_config['animate'] = [
 
 
 $misc_config['fontawesome'] = [
-	'static/static/lib/font-awesome/css/font-awesome.min.css',
+	'static/lib/font-awesome/css/font-awesome.min.css',
 ];
   
  
@@ -79,8 +79,8 @@ $misc_config['fontawesome'] = [
 * https://fomantic-ui.com/introduction/getting-started.html
 */
 $misc_config['fui'] = [
-	'static/static/lib/fomantic-ui/dist/semantic.min.css', 
-	'static/static/lib/fomantic-ui/dist/semantic.min.js', 
+	'static/lib/fomantic-ui/dist/semantic.min.css', 
+	'static/lib/fomantic-ui/dist/semantic.min.js', 
 ]; 
 
 

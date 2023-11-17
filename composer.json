@@ -3,7 +3,7 @@
     "type": "library",
     "description": "js css输出",
     "keywords": ["php"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "ken"

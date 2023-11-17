@@ -8,5 +8,5 @@ composer require thefunpower/misc
 
 ### 开源协议
  
-[LICENSE](LICENSE.md)
+[LICENSE](LICENSE)
 
